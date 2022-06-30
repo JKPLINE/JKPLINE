@@ -5,4 +5,3 @@
 - pretendo ter mais experiência nesse a plicativo .
 - recentimente entrei na plataforma Github .
 - e estou aprendendo a dominar este app.
-- 
