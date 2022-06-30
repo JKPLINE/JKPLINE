@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @JKPLINE
-- 👀 I’m intereste em  aprender novas linguagens de progamaçã
-- 👍 meu endereço de email é jakeline.padilha@escola.pr.gov.br
-- 💞️  eu estou aprenden a progamar recentmente  javascript e scractch
-- 🦖  eu vou aprofundar mais na plataforma do alura 
+- Olá meu nome é Jakeline 
+- estou cursando no app ALURA (java script e pong ¨scratch¨).
+- meu endereço de email para contato é jakeline.padilha@escola.pr.gov.br.
+- eu estou aprenden a progamar jogos curricúlos dentro do app alura .
+- pretendo ter mais experiência nesse a plicativo .
+- recentimente entrei na plataforma Github .
+- e estou aprendendo a dominar este app.
+- 
